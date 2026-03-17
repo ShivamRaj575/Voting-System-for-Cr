@@ -30,11 +30,11 @@ Classification Report
 ## 📁 Project Structure
 Online-Voting-System-CR
 
-│── Online_Voting_System_For_CR.ipynb    # Notebook with implementation and results
+│── Online_Voting_System_For_CR.ipynb          # Notebook with implementation and results
 
-│── DataSet1_final.csv                   # Processed dataset of student feedback
+│── DataSet1_final.csv                         # Processed dataset of student feedback
 
-│── README.md                            # Project documentation
+│── README.md                                  # Project documentation
 
 ## ⚙️ Steps to Execute
 
