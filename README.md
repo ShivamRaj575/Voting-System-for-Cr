@@ -4,7 +4,9 @@ This project introduces a machine learning-driven approach to identify the most 
 ## 🔹 Project Overview
 
 Goal: Identify the best CR candidate using student feedback data
+
 Technologies Used: Jupyter Notebook, pandas, scikit-learn
+
 Dataset: Includes 560+ records capturing student opinions and preferences
 
 ## 🤖 Machine Learning Models Applied
